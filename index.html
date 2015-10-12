@@ -1,0 +1,23 @@
+---
+layout: lab
+title: Creators of Pull Requests
+description: Join your friends by following the guide at <a href="https://github.com/DDS16STO/github">github.com/DDS16STO/github</a> to create your first Pull Request.
+---
+
+<div class="lab-list-container">
+  <ul class="lab-list">
+    {% for person in site.people %}
+      <li class="lab-card">
+        <div class="person-image-container">
+          <img src="/images/people/{{ person.image }}" class="person-image" alt="Image of {{ person.fullname }}">
+        </div>
+        <span class="person-fullname">{{ person.fullname }}</span>
+        {% if person.twitter %}
+          <a href="https://twitter.com/{{ person.twitter }}" class="person-twitter">@{{ person.twitter }}</a>
+        {% else %}
+          <span class="empty-row-spacer"></span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
