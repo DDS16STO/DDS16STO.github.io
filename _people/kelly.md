@@ -1,5 +1,5 @@
 ---
 fullname: Kelly H Smith
 twitter: textrel
-image: 
+image: kelly_alien_260.gif
 ---
