@@ -1,5 +1,5 @@
 ---
 fullname: Fedja Corluka
-twitter: @corlukacapitao
+twitter: corlukacapitao
 image: fedjac.jpg
 ---
