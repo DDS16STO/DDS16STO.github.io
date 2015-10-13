@@ -1,5 +1,6 @@
 ---
 fullname: Natalie Taguchi
 twitter: Natalietaguchi
-image: bengt.gif
+image: IMG_1847.jpg
+
 ---
