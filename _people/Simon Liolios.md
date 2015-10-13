@@ -1,5 +1,5 @@
 ---
 fullname: Simon Liolios
 twitter: SimonLiolios
-image: simon&stormy.jpg
+image: thedude.jpg
 ---
