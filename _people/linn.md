@@ -1,5 +1,5 @@
 ---
 fullname: Linn Persson
-twitter: evalinns
+Instagram: evalinns
 image: Linn.jpg
 ---
