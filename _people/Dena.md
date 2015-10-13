@@ -1,5 +1,5 @@
 ---
 fullname: Dena Eidi
-twitter: -
+twitter: 
 image: dena.jpg
 ---
