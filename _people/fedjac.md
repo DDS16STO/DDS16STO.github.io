@@ -1,5 +1,5 @@
 ---
-fullname: Tobias Ahlin
-twitter: tobiasahlin
+fullname: Fedja Corluka
+twitter: @corlukacapitao
 image: fedjac.jpg
 ---
