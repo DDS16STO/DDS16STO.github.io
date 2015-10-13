@@ -1,5 +1,5 @@
 ---
 fullname: Victor Söderblom
 twitter: Victorsoderblom	
-image: gang.jpg
+image: gang.png
 ---
