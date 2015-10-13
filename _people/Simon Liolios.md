@@ -1,5 +1,5 @@
 ---
-fullname: Simon Melin Liolios
+fullname: Simon Liolios
 twitter: SimonLiolios
 image: simon&stormy.jpg
 ---
