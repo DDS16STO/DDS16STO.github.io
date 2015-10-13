@@ -1,5 +1,5 @@
 ---
-fullname: Bengt-Göran
-twitter: BabyAnimalGifs
-image: bengt.gif
+fullname: Linn Persson
+twitter: evalinns
+image: linn.gif
 ---
